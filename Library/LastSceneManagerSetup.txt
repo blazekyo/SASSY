@@ -6,8 +6,8 @@ sceneSetups:
   isLoaded: 0
   isActive: 0
 - path: Assets/Scenes/FindCarScene.unity
-  isLoaded: 0
-  isActive: 0
+  isLoaded: 1
+  isActive: 1
 - path: Assets/Scenes/FindFashionScene.unity
   isLoaded: 0
   isActive: 0
@@ -15,5 +15,5 @@ sceneSetups:
   isLoaded: 0
   isActive: 0
 - path: Assets/Scenes/HomeScene.unity
-  isLoaded: 1
-  isActive: 1
+  isLoaded: 0
+  isActive: 0
